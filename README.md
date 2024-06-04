@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS @ CSULB
 ----------
 
-Computer Science undergraduate with a focus in backend development, seeking an internship to apply academic knowledge to real-world projects and collaborate with experienced professionals.
+Computer Science undergraduate with a focus in backend/frontend development, seeking an internship to apply academic knowledge to real-world projects and collaborate with experienced professionals.
 
 * 🌍  I'm based in Los Angeles California
 * 🖥️  See my portfolio at [mahdics.com](http://mahdialsalami.github.io/personal-web/)
