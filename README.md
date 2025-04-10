@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS @ CSULB
 ----------
 
-Computer Science undergraduate with a focus in backend/frontend development, seeking an internship to apply academic knowledge to real-world projects and collaborate with experienced professionals.
+Hey, I'm Mahdi! I'm currently a Computer Science junior at CSULB. I enjoy coding, teaching others to code, and learning more about it! I'm constantly seeking new challenges and opportunities to grow both personally and professionally in the tech industry. Eager to connect and collaborate with professionals in the Software Engineering field.
 
 * 🌍  I'm based in Los Angeles California
 * 🖥️  See my portfolio at [mahdics.com](http://mahdialsalami.github.io/personal-web/)
