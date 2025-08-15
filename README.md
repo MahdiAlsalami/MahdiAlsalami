@@ -6,7 +6,7 @@ CS @ CSULB
 
 Hey, I'm Mahdi! I'm currently a Computer Science junior at CSULB. I enjoy coding, teaching others to code, and learning more about it! I'm constantly seeking new challenges and opportunities to grow both personally and professionally in the tech industry. Eager to connect and collaborate with professionals in the Software Engineering field.
 
-* 😃  My Personal Website: mahdialsalami.dev
+* 😃  My Personal Website: [mahdialsalami.dev](mahdialsalami.dev)
 * 🌍  I'm based in Los Angeles California
 * ✉️  You can contact me at [mahdialsalami0@gmail.com](mailto:mahdialsalami0@gmail.com)
 * 🧠  I'm learning Full-Stack Development
