@@ -1,25 +1,108 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahdi Alsalami
-======================================================================================================================================
-
-CS @ CSULB
-----------
-
-Hey, I'm Mahdi! I'm currently a Computer Science junior at CSULB. I enjoy coding, teaching others to code, and learning more about it! I'm constantly seeking new challenges and opportunities to grow both personally and professionally in the tech industry. Eager to connect and collaborate with professionals in the Software Engineering field.
-
-* 😃  My Personal Website: <https://mahdialsalami.dev>
-* 🌍  I'm based in Los Angeles California
-* ✉️  You can contact me at [mahdialsalami0@gmail.com](mailto:mahdialsalami0@gmail.com)
-* 🧠  I'm learning Full-Stack Development
-* ⚡  Seeking Software Engineering Internships
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<h1 align="center">
+Hi, I'm Mahdi Alsalami!
+	<a href="https://mahdialsalami.dev" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+<p align="center">
+	<a href="https://github.com/MahdiAlsalami">
+		<img src="https://komarev.com/ghpvc/?username=MahdiAlsalami&label=Profile%20views&color=0e75b6&style=flat" alt="MahdiAlsalami" />
+	</a>
+	<a href="https://github.com/MahdiAlsalami">
+		<img src="https://img.shields.io/github/followers/MahdiAlsalami?label=Followers" alt="followers" />
+	</a>
 </p>
 
+<p align="center">
+	<a href="https://github.com/MahdiAlsalami">
+		<img src="https://readme-typing-svg.demolab.com?lines=Software+Engineer+%7C+CS+Student+@+CSULB;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Tech&center=true&width=500&height=45">
+	</a>
+</p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/MahdiAlsalami" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mahdialsalamics" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@technologywithmahdi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+<pre>
+👨‍💻 Computer Science student at CSULB (Graduating May 2026)
+🛠️ Software Engineering Intern @ Appwrite, Ani | IBM Accelerate 2024
+🌍 Building full-stack, AI-powered, and open source tools that help people
+💡 Creator of SafetySnap – AI OSHA violation detection tool
+📈 2M+ views creating CS education content online
+🧠 Always exploring TypeScript, Next.js, React, Python, Node.js, and ML
+🚀 Currently seeking Summer 2025 SWE internships
+📄 <a href="https://drive.google.com/file/d/1UScShTVADttLDbnE6aDN3ECOKVZArGUG/view?usp=sharing" target="_blank">View My Resume</a>
+</pre>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+	<a href="mailto:mahdialsalami0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/mahdialsalamics/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
+	<a href="https://github.com/MahdiAlsalami"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
+	<a href="https://mahdialsalami.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=plastic&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Languages
+<p>
+	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+	<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+	<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+	<img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🧰 Frameworks & Libraries
+<p>
+	<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+	<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white"/>
+	<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+	<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+	<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=flat"/>
+	<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+	<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+	<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+	<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+	<img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+	<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+	<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+	<img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+	<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+	<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahdiAlsalami&show_icons=true&hide=stars&count_private=true" />
+	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiAlsalami" />
+</p>
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiAlsalami&layout=compact" />
+</p>
+
+---
+
+## 💬 Let's Collaborate
+
+If you're building something meaningful and want to work together—or if you just want to chat tech, design, or life—feel free to [email me](mailto:mahdialsalami0@gmail.com) or reach out on [LinkedIn](https://www.linkedin.com/in/mahdialsalamics/).
+
+---
+
+*Last updated: 2025*
