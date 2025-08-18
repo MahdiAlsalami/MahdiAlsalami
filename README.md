@@ -29,7 +29,7 @@ Hi, I'm Mahdi Alsalami!
 📈 2M+ views creating CS education content online
 🧠 Always exploring TypeScript, Next.js, React, Python, Node.js, and ML
 🚀 Currently seeking Summer 2025 SWE internships
-📄 <a href="https://drive.google.com/file/d/1UScShTVADttLDbnE6aDN3ECOKVZArGUG/view?usp=sharing" target="_blank">View My Resume</a>
+📄 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://drive.google.com/file/d/1UScShTVADttLDbnE6aDN3ECOKVZArGUG/view?usp=sharing)
 </pre>
 
 ---
