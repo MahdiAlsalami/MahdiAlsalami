@@ -21,7 +21,7 @@ Hi, I'm Mahdi Alsalami!
 
 ---
 
-<pre>
+
 👨‍💻 Computer Science student at CSULB (Graduating May 2026)
 🛠️ Past SWE Intern @ Ani, Beads Factory | Code Coach @ theCoderSchool
 🌍 Building full-stack, AI-powered, and open source tools that help people
@@ -30,7 +30,7 @@ Hi, I'm Mahdi Alsalami!
 🧠 Exploring TypeScript, Next.js, React, Python, Node.js, and Machine Learning
 🚀 Currently seeking Summer 2025 SWE internships
 📄 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/MahdiAlsalami/MahdiAlsalami/raw/main/MahdiAlsalamiResumeCS.pdf)
-</pre>
+
 
 ---
 
