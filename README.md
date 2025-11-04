@@ -85,16 +85,6 @@ Hi, I'm Mahdi Alsalami!
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahdiAlsalami&show_icons=true&hide=stars&count_private=true" />
-	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiAlsalami" />
-</p>
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiAlsalami&layout=compact" />
-</p>
 
 ---
 
